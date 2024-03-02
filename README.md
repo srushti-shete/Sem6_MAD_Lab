@@ -1,17 +1,9 @@
-# experiment 1 - 
-# experiment 2 - 
-# experiment 3 - 
-A new Flutter project.
+### Experiment 1: First flutter App - https://github.com/srushti-shete/Sem6_MAD_Lab/blob/master/lib/main.dart
 
-## Getting Started
+### Experiment 2: Common Widgets -
 
-This project is a starting point for a Flutter application.
+### Experiment 3: Profile page app - https://github.com/srushti-shete/Sem6_MAD_Lab/blob/master/lib/profile_page.dart
 
-A few resources to get you started if this is your first Flutter project:
+### Experiment 4: ListView and Card Layout -
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
